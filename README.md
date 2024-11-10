@@ -2,15 +2,7 @@
 
 Welcome to the **Docker Fundamentals** course, a beginner-friendly introduction to Docker, designed to get you up and running with this powerful containerization tool in under two hours. This course, taught by software engineer Carlos Nunez, covers the basics of Docker, its use cases, and practical skills for creating and managing containers.
 
----
 
-## Course Details
-- **Duration**: 1 hour, 56 minutes
-- **Level**: Beginner
-- **Release Date**: December 14, 2022
-- **Rating**: 4.7 (3,075 reviews)
-
----
 
 ## Course Overview
 
